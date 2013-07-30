@@ -1,0 +1,23 @@
+== Active Observers {<img src="https://travis-ci.org/chikim/active_observers.png" />}[https://travis-ci.org/chikim/active_observers]
+
+== DESCRIPTION
+
+Observe ActiveRecord models to process call everything you want
+
+== INSTALLATION & SETUP
+
+  $ gem install active_observers
+
+or add this to your Gemfile
+
+  gem 'active_observers'
+
+== HOW TO USE
+
+## TODO
+
+== CONTRIBUTORS
+
+* ChiKim[http://github.com/chikim]
+
+== COPYRIGHT (c) 2013 Framgia Vietnam INC
